@@ -1,0 +1,21 @@
+# Dataset
+dataset/
+data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+
+# Temporary outputs
+outputs/
+*.log
+
+# Large model files
+*.pth
+*.pt
