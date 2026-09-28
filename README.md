@@ -207,8 +207,7 @@ reporting unverified or training-only metrics as test performance.
 ## Author
 
 **P Supraja**\
-AI/ML Engineer \| Deep Learning \| Computer Vision \| Explainable AI
-
+AI/ML Engineer \| Deep Learning \| Computer Vision \| GenAI
 GitHub: [@supraja0ai](https://github.com/supraja0ai)
 
 ------------------------------------------------------------------------
