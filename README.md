@@ -216,3 +216,5 @@ GitHub: [@supraja0ai](https://github.com/supraja0ai)
 This project is intended for educational and research purposes. Its
 predictions should not be treated as conclusive evidence of image
 authenticity.
+
+------------------------------------------------------------------------
